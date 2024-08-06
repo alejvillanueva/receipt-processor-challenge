@@ -1,0 +1,21 @@
+{
+	"name": "receipt-processor-challenge",
+	"version": "1.0.0",
+	"description": "Take home challenge for Fetch",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js",
+		"test": "jest",
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "Alejandra Villanueva",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.19.2",
+		"nodemon": "^3.1.4"
+	},
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
